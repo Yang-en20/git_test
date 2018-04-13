@@ -6,4 +6,6 @@
  * Time: 23:14
  */
 
-phpinfo();
+echo "<h1>不会用java啊</h1>";
+
+print_r($_SERVER);
